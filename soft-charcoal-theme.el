@@ -28,8 +28,8 @@
         '(default ((t (:background "#191919" :foreground "#babdb6"))))
         '(font-lock-builtin-face ((t (:foreground "#54686d"))))
         '(region ((t (:background "#3c414c" :foreground "#faf4c6"))))
-        '(highlight ((t (:background "#3c414c"))))
-	'(hl-line ((t (:background "#282828"))))
+        '(highlight ((t (:foreground "#3c414c"))))
+	'(hl-line ((t (:background "#252525"))))
 	'(fringe ((t (:background "#232323" :foreground "#cfbfad"))))
 	'(cursor ((t (:background "#626262"))))
         '(show-paren-match-face ((t (:background "#f03f3f"))))
@@ -85,7 +85,7 @@
 	'(gnus-header-from ((t (:foreground "#54686d"))))
 	'(gnus-header-name ((t (:foreground "#5d90cd"))))
 	'(gnus-header-subject ((t (:foreground "#b998df"))))
-	'(slime-repl-inputed-output-face ((t (:foreground "#ff9800")))))
+	'(slime-repl-inputed-output-face ((t (:foreground "#f0f0f0")))))
 
 ;;;###autoload
 (when load-file-name
