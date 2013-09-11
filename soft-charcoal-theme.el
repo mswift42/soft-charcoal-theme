@@ -88,7 +88,7 @@
 	'(gnus-header-from ((t (:foreground "#54686d"))))
 	'(gnus-header-name ((t (:foreground "#5d90cd"))))
 	'(gnus-header-subject ((t (:foreground "#b998df"))))
-	'(magit-item-highlight ((t (:background :626262))))
+	'(magit-item-highlight ((t (:background "#252525"))))
 	'(slime-repl-inputed-output-face ((t (:foreground "#f0f0f0")))))
 
 ;;;###autoload
