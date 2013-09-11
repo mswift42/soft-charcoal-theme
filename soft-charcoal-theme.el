@@ -35,7 +35,7 @@
 	'(cursor ((t (:background "#626262"))))
         '(show-paren-match-face ((t (:background "#f03f3f"))))
         '(isearch ((t (:bold t :foreground "#f03f3f" :background "#e2e2e5"))))
-        '(mode-line ((t (:bold t :foreground "#babdb" :background "#232323"))))
+        '(mode-line ((t (:bold t :foreground "#babdb6" :background "#232323"))))
         '(mode-line-inactive ((t (:foreground "#808080" :background "#202020"))))
         '(mode-line-buffer-id ((t (:bold t :foreground "#5d90cd" :background "#191919"))))
 	'(mode-line-highlight ((t (:background "#808080"))))
