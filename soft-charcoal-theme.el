@@ -1,5 +1,4 @@
 ;;; soft-charcoal-theme.el --- Dark charcoal theme with soft colors
-
 ;; Author: Martin Haesler
 ;; URL: http://github.com/mswift42/soft-charcoal-theme
 ;; Version: 0.1
@@ -36,7 +35,7 @@
         '(show-paren-match-face ((t (:background "#f03f3f"))))
         '(isearch ((t (:bold t :foreground "#f03f3f" :background "#e2e2e5"))))
         '(mode-line ((t (:bold t :foreground "#babdb6" :background "#202020"))))
-        '(mode-line-inactive ((t (:foreground "#808080" :background "#202020"))))
+        '(mode-line-inactive ((t (:foreground "#626262" :background "#202020"))))
         '(mode-line-buffer-id ((t (:bold t :foreground "#5d90cd" :background "#202020"))))
 	'(mode-line-highlight ((t (:background "#808080"))))
 	'(vertical-border ((t (:foreground "#232323"))))
