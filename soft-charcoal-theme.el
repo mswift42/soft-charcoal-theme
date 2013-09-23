@@ -25,7 +25,7 @@
 
 (custom-theme-set-faces
   'soft-charcoal
-        '(default ((t (:background "#191919" :foreground "#a5a5a5"))))
+        '(default ((t (:background "#191919" :foreground "#c2c2c2"))))
         '(font-lock-builtin-face ((t (:foreground "#54686d"))))
         '(region ((t (:background "#3c414c" :foreground "#faf4c6"))))
         '(highlight ((t (:foreground "#626262"))))
