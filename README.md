@@ -27,7 +27,7 @@ To install the theme:
 **M-x package-install** soft-charcoal-theme
 
 
-To use the soft-charcoal theme when starting emacs:
+To use the soft-charcoal theme when starting emacs, add this to your init.el:
 
     (load-theme 'soft-charcoal)
 
