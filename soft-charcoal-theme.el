@@ -93,6 +93,7 @@
 	'(mu4e-cited-7-face ((t (:foreground "#b2b1b0"))))
 	'(mu4e-header-marks-face ((t (:foreground "#929190"))))
 	'(ffap ((t (:foreground "#929190"))))
+        '(trailing-whitespace ((t (:foreground nil :background "#3f3f3f"))))
 	'(slime-repl-inputed-output-face ((t (:foreground "#f0f0f0")))))
 
 ;;;###autoload
